@@ -10,6 +10,6 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 
 ## Tarefas
 
-- [Hello World](./Hello%20World/helloWorld.cpp)
+- [Hello World](./helloWorld/helloWorld.cpp)
 
 
