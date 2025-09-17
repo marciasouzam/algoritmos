@@ -6,5 +6,10 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 
 ## Conteúdo
 
-- [Conceitos basicos](./conceitosBasicos/)  
+- [Conceitos basicos](./conceitosBasicos/)
+
+## Tarefas
+
+- [Hello World](./helloWorld/helloWorld.cpp)
+
 
