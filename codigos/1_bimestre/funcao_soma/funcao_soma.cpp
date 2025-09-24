@@ -9,7 +9,7 @@ int main () {
     int a, b, s;
     std:: cin >> a >> b;
     s = soma(a, b);
-    std:: cout << "A soma é"
+    std:: cout << "A soma é "
                  << s 
                 << std:: endl;
     return 0;
