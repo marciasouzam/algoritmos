@@ -11,7 +11,7 @@ int main () {
     return 0;
 }
 
-// casos testes 1000 a
+// casos testes 10000 a
 // 12000 b
 
 // a 20000
