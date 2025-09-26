@@ -19,7 +19,7 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 - [Conversão Implícita](./conversao_implicita/conversao_implicita.cpp)
 - [Conversão Implícita 2](./conversao_implicita/conversao_implicita.cpp)
 - [Função Soma](./funcao_soma/funcao_soma.cpp)
-- [Lacos](./lacos/lacos.cpp)
+- [Laços](./lacos/lacos.cpp)
 - [Média](./media/media.cpp)
 
 
