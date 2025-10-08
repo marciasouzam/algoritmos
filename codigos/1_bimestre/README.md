@@ -21,5 +21,6 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 - [Função Soma](./funcao_soma/funcao_soma.cpp)
 - [Laços](./lacos/lacos.cpp)
 - [Média](./media/media.cpp)
+- [Maior Elemento](./maiorElemento/maiorElemento.cpp)
 
 
