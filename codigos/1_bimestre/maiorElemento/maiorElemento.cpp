@@ -42,9 +42,9 @@ int main() {
     int maior = maior_array(a, n);
     int maior2 = maior_array2(a, n);
     int maior3 = maior_array3(a, n);
-    std::cout  << "Maior valor da funcao maior_array: "<< maior << std::endl;
-    std::cout  << "Maior valor da funcao maior_array2: " << maior2 << std::endl;
-    std::cout << "Maior valor da funcao maior_array3: " << maior3 << std::endl;
+    std::cout << maior << std::endl;
+    std::cout << maior2 << std::endl;
+    std::cout << maior3 << std::endl;
 
     for (int i = 0; i < n; ++i) 
         std::cout << a[i] << std::endl;
