@@ -15,8 +15,8 @@ int maior_array2(int a[], int tamanho) {
     for (int i = 1; i < tamanho; ++i) {
         if (a[i] > maior) 
             maior = a[i];
-        if (i == 20) {
-            a[i] = 100; }
+        if (i == 9) {
+            a[i] = 20; }
         }
     return maior;
 }
@@ -24,8 +24,8 @@ int maior_array2(int a[], int tamanho) {
  int maior_array3(int a[], int tamanho) {
     int maior = a[0];
     for (int i = 1; i < tamanho; ++i) {
-        if (i == 20) 
-            a[i] = 100; 
+        if (i == 9) 
+            a[i] = 20; 
         if (a[i] > maior) {
             maior = a[i]; } 
         }
@@ -40,13 +40,20 @@ int main() {
     for (int i = 0; i < n; ++i) 
         std::cin >> a[i];
     int maior = maior_array(a, n);
+    for (int i = 0; i < n; ++i) {
+        std::cout << a[i] << std::endl; }
+
     int maior2 = maior_array2(a, n);
+    for (int i = 0; i < n; ++i) {
+        std::cout << a[i] << std::endl; }
+
     int maior3 = maior_array3(a, n);
+    for (int i = 0; i < n; ++i) {
+        std::cout << a[i] << std::endl; }
+
     std::cout << maior << std::endl;
     std::cout << maior2 << std::endl;
     std::cout << maior3 << std::endl;
 
-    for (int i = 0; i < n; ++i) 
-        std::cout << a[i] << std::endl;
        return 0;
 }
