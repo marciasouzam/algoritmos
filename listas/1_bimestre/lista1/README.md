@@ -12,3 +12,6 @@ Nesta pasta estão as atividades da lista 1 do **1º bimestre**.
 - [4. População 2](./populacao2/populacao2.cpp) 
 - [5. Posto de Gasolina](./gasolina/gasolina.cpp)  
 
+---
+
+- [Documento com explicações](./lista1_explicacoes.docx)
