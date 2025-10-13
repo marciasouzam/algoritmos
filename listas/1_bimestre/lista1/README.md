@@ -1,7 +1,6 @@
 # Lista 1 – 1º Bimestre
 
 Nesta pasta estão as atividades da lista 1 do **1º bimestre**.  
-Cada lista contém:  
 
 ---
 
