@@ -22,5 +22,14 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 - [Laços](./lacos/lacos.cpp)
 - [Média](./media/media.cpp)
 - [Maior Elemento](./maiorElemento/maiorElemento.cpp)
+- [Soma de Elementos](./soma_elementos/soma_elementos.cpp)
+- [Transporta Matriz](./transporta_matriz/transporta_matriz.cpp)
+- [Aumento Capacidade](./aumento_capacidade/aumento_capacidade.cpp)
+- [Gerencia](./gerencia/gerencia.cpp)
+- [Aumento Capacidade 2](./aumento_capacidade2/aumento_capacidade2.cpp)
+- [Push Back](./push_back/push_back.cpp)
+- [Endereço Memória](./endereço_memoria/endereço_memoria.cpp)
+- [Número Argumentos](./numero_argumentos/numero_argumentos.cpp)
+- [Ponteiros](./ponteiros/ponteiros.cpp)
 
 
