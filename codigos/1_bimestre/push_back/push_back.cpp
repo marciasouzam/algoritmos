@@ -14,10 +14,9 @@ int * increase_capacity(int *data, int &capacity, int size) {
 
 int * push_back(int *data, int &capacity, int &size, int value){
 if (size==capacity)
-
-data = increase_capacity(data, capacity, size); // diminui a capacidade
-data[size++]=value;
-return data;
+    data = increase_capacity(data, capacity, size); // diminui a capacidade
+    data[size++]=value;
+    return data;
 
 }
 
